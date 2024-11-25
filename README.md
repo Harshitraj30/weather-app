@@ -16,15 +16,7 @@ CSS: Styling for a visually appealing design.
 JavaScript: Fetches and processes data from the API and dynamically updates the UI.
 OpenWeatherMap API: Provides weather and forecast data.
 How to Use
-# Clone the repository:
-Copy code
-git clone https://github.com/yourusername/weather-app.git
-Navigate to the project directory:
-bash
-Copy code
-cd weather-app
-Open the index.html file in your browser to view the app.
-# Code Explanation
+
 HTML (index.html)
 The structure includes an input field for the city, a search button, and sections for displaying weather data and hourly forecasts.
 Linked to style.css for styling and script.js for functionality.
